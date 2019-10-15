@@ -6,8 +6,8 @@ tab drink hiển thị các đồ uống
 người dùng có thể đặt hàng bằng cách CLICK vào Tên của món ăn sau đó thực hiện đặt mua.
 để thực hiện quản lý các món ăn. người dùng cần đăng nhập với tư cách admin.
 click vào nút Log trên thanh tiêu đề, góc phải màn hình và đăng nhập
-tên đăng nhập: admin
-mật khẩu: 123
+TÊN ĐĂNG NHẬP: admin
+MẬT KHẨU: 123
 sau đó admin có thể có các quản lý như xem đơn hàng mà người dùng đã đặt, quản lý các món ăn:
 CHức năng: Xem đơn hàng:
 -admin đăng nhập sau đó xem thông tin đơn hàng.
